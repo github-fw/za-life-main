@@ -4,3 +4,6 @@
 [submodule "bigScreen"]
 	path = bigScreen
 	url = https://github.com/github-fw/bigScreen.git
+[submodule "vueDemo"]
+	path = vueDemo
+	url = https://github.com/github-fw/vueDemo.git
